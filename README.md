@@ -1,2 +1,2 @@
-# kervyntan.github.io
-Personal Project (About Me Website)
+# Kervyn-Personal-Project
+About Me Page created using Bootstrap
